@@ -61,12 +61,19 @@ If you have any feedback, please reach out to us at suchit007lko@gmail.com
 
 
 
+#Home Page
 
 ![home page](https://user-images.githubusercontent.com/101620807/202548758-aefa1810-3e15-479f-a95a-0b03008fa601.jpeg)
 
 
+
+# All Coin
+
 ![page2](https://user-images.githubusercontent.com/101620807/202549148-e2a7e53f-d902-48c3-b3e0-7ba984865f9f.jpeg)
 
+
+
+# Graph
 
 ![page3](https://user-images.githubusercontent.com/101620807/202549289-8e537b24-935b-43ea-b6dc-1a847db11320.jpeg)
 
