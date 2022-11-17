@@ -1,10 +1,10 @@
-package com.purukajal.kryptofare
+package com.purusuchit.kryptofare
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.PopupMenu
 import androidx.navigation.fragment.findNavController
-import com.purukajal.kryptofare.databinding.ActivityMainBinding
+import com.purusuchit.kryptofare.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

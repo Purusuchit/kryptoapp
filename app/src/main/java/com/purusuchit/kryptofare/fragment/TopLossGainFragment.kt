@@ -1,4 +1,4 @@
-package com.purukajal.kryptofare.fragment
+package com.purusuchit.kryptofare.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,11 +6,11 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
-import com.purukajal.kryptofare.adapter.MarketAdapter
-import com.purukajal.kryptofare.apis.ApiInterface
-import com.purukajal.kryptofare.apis.ApiUtilities
-import com.purukajal.kryptofare.databinding.FragmentTopLossGainBinding
-import com.purukajal.kryptofare.models.CryptoCurrency
+import com.purusuchit.kryptofare.adapter.MarketAdapter
+import com.purusuchit.kryptofare.apis.ApiInterface
+import com.purusuchit.kryptofare.apis.ApiUtilities
+import com.purusuchit.kryptofare.databinding.FragmentTopLossGainBinding
+import com.purusuchit.kryptofare.models.CryptoCurrency
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext

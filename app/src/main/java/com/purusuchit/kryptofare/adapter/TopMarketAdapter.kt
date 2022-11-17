@@ -1,4 +1,4 @@
-package com.purukajal.kryptofare.adapter
+package com.purusuchit.kryptofare.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -6,9 +6,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.purukajal.kryptofare.R
-import com.purukajal.kryptofare.databinding.TopCurrencyLayoutBinding
-import com.purukajal.kryptofare.models.CryptoCurrency
+import com.purusuchit.kryptofare.R
+import com.purusuchit.kryptofare.databinding.TopCurrencyLayoutBinding
+import com.purusuchit.kryptofare.models.CryptoCurrency
 
 class TopMarketAdapter(var context: Context, val list: List<CryptoCurrency>) : RecyclerView.Adapter<TopMarketAdapter.TopMarketViewHolder>()
 {

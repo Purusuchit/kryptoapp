@@ -1,6 +1,6 @@
-package com.purukajal.kryptofare.apis
+package com.purusuchit.kryptofare.apis
 
-import com.purukajal.kryptofare.models.MarketModel
+import com.purusuchit.kryptofare.models.MarketModel
 import retrofit2.Response
 import retrofit2.http.GET
 

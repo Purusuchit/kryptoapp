@@ -1,8 +1,7 @@
-package com.purukajal.kryptofare.fragment
+package com.purusuchit.kryptofare.fragment
 
 import android.os.Bundle
 import android.util.Log
-import android.view.ActionProvider
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
@@ -10,16 +9,14 @@ import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
 import androidx.viewpager2.widget.ViewPager2
 import com.google.android.material.tabs.TabLayoutMediator
-import com.purukajal.kryptofare.R
-import com.purukajal.kryptofare.adapter.TopLossGainPagerAdapter
-import com.purukajal.kryptofare.adapter.TopMarketAdapter
-import com.purukajal.kryptofare.apis.ApiInterface
-import com.purukajal.kryptofare.apis.ApiUtilities
-import com.purukajal.kryptofare.databinding.FragmentHomeBinding
+import com.purusuchit.kryptofare.adapter.TopLossGainPagerAdapter
+import com.purusuchit.kryptofare.adapter.TopMarketAdapter
+import com.purusuchit.kryptofare.apis.ApiInterface
+import com.purusuchit.kryptofare.apis.ApiUtilities
+import com.purusuchit.kryptofare.databinding.FragmentHomeBinding
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
-import okhttp3.Dispatcher
 
 class HomeFragment : Fragment() {
 

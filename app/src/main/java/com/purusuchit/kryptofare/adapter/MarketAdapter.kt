@@ -1,4 +1,4 @@
-package com.purukajal.kryptofare.adapter
+package com.purusuchit.kryptofare.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -7,11 +7,11 @@ import android.view.ViewGroup
 import androidx.navigation.Navigation.findNavController
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.purukajal.kryptofare.R
-import com.purukajal.kryptofare.databinding.CurrencyItemLayoutBinding
-import com.purukajal.kryptofare.fragment.HomeFragmentDirections
-import com.purukajal.kryptofare.fragment.MarketFragmentDirections
-import com.purukajal.kryptofare.models.CryptoCurrency
+import com.purusuchit.kryptofare.R
+import com.purusuchit.kryptofare.databinding.CurrencyItemLayoutBinding
+import com.purusuchit.kryptofare.fragment.HomeFragmentDirections
+import com.purusuchit.kryptofare.fragment.MarketFragmentDirections
+import com.purusuchit.kryptofare.models.CryptoCurrency
 
 class MarketAdapter(var context: Context, var list: List<CryptoCurrency>, var type: String) : RecyclerView.Adapter<MarketAdapter.MarketViewHolder>() {
 

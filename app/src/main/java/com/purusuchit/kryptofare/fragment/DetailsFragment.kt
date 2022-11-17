@@ -1,4 +1,4 @@
-package com.purukajal.kryptofare.fragment
+package com.purusuchit.kryptofare.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -8,9 +8,9 @@ import android.view.ViewGroup
 import androidx.appcompat.widget.AppCompatButton
 import androidx.navigation.fragment.navArgs
 import com.bumptech.glide.Glide
-import com.purukajal.kryptofare.R
-import com.purukajal.kryptofare.databinding.FragmentDetailsBinding
-import com.purukajal.kryptofare.models.CryptoCurrency
+import com.purusuchit.kryptofare.R
+import com.purusuchit.kryptofare.databinding.FragmentDetailsBinding
+import com.purusuchit.kryptofare.models.CryptoCurrency
 
 
 class DetailsFragment : Fragment() {

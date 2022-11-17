@@ -1,4 +1,4 @@
-package com.purukajal.kryptofare.apis
+package com.purusuchit.kryptofare.apis
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

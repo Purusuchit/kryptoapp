@@ -1,4 +1,4 @@
-package com.purukajal.kryptofare.models
+package com.purusuchit.kryptofare.models
 
 data class Data(
     val cryptoCurrencyList: List<CryptoCurrency>,

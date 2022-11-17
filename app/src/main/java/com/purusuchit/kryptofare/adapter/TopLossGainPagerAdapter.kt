@@ -1,9 +1,9 @@
-package com.purukajal.kryptofare.adapter
+package com.purusuchit.kryptofare.adapter
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import com.purukajal.kryptofare.fragment.TopLossGainFragment
+import com.purusuchit.kryptofare.fragment.TopLossGainFragment
 
 class TopLossGainPagerAdapter(fragment : Fragment): FragmentStateAdapter(fragment) {
     override fun getItemCount(): Int {

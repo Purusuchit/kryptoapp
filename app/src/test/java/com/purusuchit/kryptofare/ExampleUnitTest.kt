@@ -1,4 +1,4 @@
-package com.purukajal.kryptofare
+package com.purusuchit.kryptofare
 
 import org.junit.Test
 
