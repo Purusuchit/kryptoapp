@@ -59,3 +59,7 @@ If you have any feedback, please reach out to us at suchit007lko@gmail.com
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puru-chaudhary-a59050199/)
 
+
+
+![home page](https://user-images.githubusercontent.com/101620807/202548758-aefa1810-3e15-479f-a95a-0b03008fa601.jpeg)
+
