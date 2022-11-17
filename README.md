@@ -67,7 +67,7 @@ If you have any feedback, please reach out to us at suchit007lko@gmail.com
 
 
 
-# All Coin
+# All Coins
 
 ![page2](https://user-images.githubusercontent.com/101620807/202549148-e2a7e53f-d902-48c3-b3e0-7ba984865f9f.jpeg)
 
