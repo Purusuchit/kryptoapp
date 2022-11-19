@@ -15,7 +15,7 @@ You can view any particular currency with their graphs as well.
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Cryoto Cap**. Cryoto Cap |
+| `Coin Cap` | `crypto` | Crypto Currency API |
 
 
 
